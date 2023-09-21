@@ -1,3 +1,6 @@
 Resolusi
 1. Belajar GIT & GITHUB DULU
+2. JavaScript
+3. Project Landing PAge
+4. Project Profile Page
 ~ Revisi tanggal pembuatan menjadi masing masing 2 minggu
