@@ -1,0 +1,5 @@
+Rencana Belajar 
+1. Git & Github
+2. Java Script
+3. Bikin Landing Page
+4. Bikin Profile Page
